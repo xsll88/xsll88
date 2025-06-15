@@ -27,7 +27,7 @@
 
 ## 🧠 Learning
 
-[![Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,php)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=js,html,css,python,rust,php,golang)](https://skillicons.dev)
 
 ---
 
